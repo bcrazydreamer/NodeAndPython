@@ -7,9 +7,9 @@
 ## Python Version
 #### Python2
 ```javascript
-spawn('python',["./pyfile", arguments]); --> For python2
+spawn('python',["./pyfile", arguments]);   //--> For python2
 ```
 #### Python3
 ```javascript
-spawn('python',["./pyfile", arguments]); --> For python3
+spawn('python',["./pyfile", arguments]);  //--> For python3
 ```
