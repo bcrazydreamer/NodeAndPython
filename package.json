@@ -1,0 +1,14 @@
+{
+  "name": "nodepython",
+  "version": "1.0.0",
+  "description": "NodeJs and Python together example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bcrazydreamer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
